@@ -21,3 +21,28 @@ Take a peek at the Party Explorer's Home Screen, where all the magic happens:
     <td>Home Screen - Dark Mode</td>
   </tr>
 </table>
+
+
+
+## Installation and Setup
+
+To run the Party Explorer project on your local machine, follow these steps:
+
+1. **Clone the repository via Xcode:**
+   - Launch Xcode on your Mac.
+   - Navigate to the 'Welcome to Xcode' window and select 'Clone an existing project'.
+   - In the search bar, paste the URL of the GitHub repository: `https://github.com/Tilak1028-st/Party-Explorer.git`
+   - Choose the location on your machine where you'd like to clone the repository and click 'Clone'.
+   - Once cloned, the project will open automatically in Xcode.
+
+2. **Open the project in Xcode:**
+Navigate to the cloned repository on your machine and open the `Party Explorer.xcodeproj` file in Xcode.
+
+3. **Select your simulator or device:**
+In Xcode, choose the iOS simulator you want to run the app on from the device selection dropdown menu.
+
+4. **Build and run the project:**
+Press `Cmd + R` or click on the play button in Xcode to build and run the project.
+
+
+
